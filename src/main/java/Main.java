@@ -14,3 +14,4 @@ public class Main {
         System.out.println("This program created a new file on disk named 'mainWasRun.txt'!");
     }
 }
+cd

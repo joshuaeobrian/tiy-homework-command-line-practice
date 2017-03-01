@@ -48,7 +48,7 @@ public class CommandLineTest {
     // the-iron-yard-logo.png not in root
     public void tiyLogoNotInRoot(){
         assertThat("the-iron-yard-logo.png is not in the src/main/resources/images",
-                Files.exists(Paths.get("the-iron-yard-logo.png")), is(false));
+                Files.exists(Paths.get("images/the-iron-yard-logo.png")), is(false));
     }
 
     @Test
