@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="108c4bf2-b989-44c3-b1e5-ba3c5f80a4d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Main.java" afterPath="$PROJECT_DIR$/src/main/java/Main.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/build/resources/main/deleteMe.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/classes/test/CommandLineTest.class" afterPath="$PROJECT_DIR$/build/classes/test/CommandLineTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="tiy-homework-command-line-practice.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +40,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CommandLineTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommandLineTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/CommandLineTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+            <state relative-caret-position="342">
+              <caret line="86" column="50" lean-forward="false" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -50,7 +52,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
@@ -458,8 +460,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/deleteMe.txt" />
         <option value="$PROJECT_DIR$/fruit.txt" />
         <option value="$PROJECT_DIR$/misspellllled.txt" />
-        <option value="$PROJECT_DIR$/src/test/java/CommandLineTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/test/java/CommandLineTest.java" />
       </list>
     </option>
   </component>
@@ -1177,25 +1179,25 @@
       <option name="presentableId" value="Default" />
       <updated>1469628831392</updated>
       <workItem from="1469628836344" duration="3439000" />
-      <workItem from="1488382237436" duration="1491000" />
+      <workItem from="1488382237436" duration="2824000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CommandLineTest - 2016.07.27 at 11h 01m 45s.xml">
-      <configuration name="CommandLineTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CommandLineTest - 2017.03.01 at 10h 36m 09s.xml">
       <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 55m 33s.xml">
-      <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
+    <history-entry file="CommandLineTest - 2017.03.01 at 11h 00m 42s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 55m 56s.xml">
-      <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
+    <history-entry file="CommandLineTest - 2017.03.01 at 11h 01m 45s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 56m 36s.xml">
-      <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
+    <history-entry file="CommandLineTest - 2017.03.01 at 11h 08m 14s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CommandLineTest - 2017.03.01 at 11h 09m 18s.xml">
+      <configuration name="CommandLineTest" configurationId="JUnit" />
     </history-entry>
     <history-entry file="CommandLineTest_misspellllledTxtRenamedTest - 2016.07.27 at 10h 56m 49s.xml">
       <configuration name="CommandLineTest.misspellllledTxtRenamedTest" configurationId="JUnit" />
@@ -1214,7 +1216,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4937000" />
+    <option name="totallyTimeSpent" value="6270000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1060" height="1050" extended-state="0" />
@@ -1240,7 +1242,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45762712" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2981132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2981132" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32901296" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -1340,7 +1342,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mainWasRun.txt" />
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -1372,20 +1373,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/CommandLineTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="25" column="9" lean-forward="false" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+        <state relative-caret-position="342">
+          <caret line="86" column="50" lean-forward="false" selection-start-line="86" selection-start-column="50" selection-end-line="86" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/mainWasRun.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
